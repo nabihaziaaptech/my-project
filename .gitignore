@@ -1,1 +1,8 @@
+# Node modules folder ko ignore karo
 node_modules/
+
+# Environment file ko ignore karo
+.env
+
+# System files ko ignore karo
+.DS_Store
